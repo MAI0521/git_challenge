@@ -1,1 +1,2 @@
-hello_world.txtを追加
+Hello, World！
+こんにちは、世界！
